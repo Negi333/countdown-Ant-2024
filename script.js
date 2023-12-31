@@ -4,7 +4,7 @@ const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
 // Set the target date for the countdown
-const targetDate = new Date('2024-01-01T00:00:00');
+const targetDate = new Date('2025-01-01T00:00:00');
 
 function countdown() {
     const currentDate = new Date();
